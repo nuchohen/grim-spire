@@ -24,13 +24,13 @@ The focus is on **world evolution** and a **distinct visual style**, crafted wit
 
 ## 🖼️ Screenshots
 **Main Menu**  
-![](assets/main_menu.png)
+![](assets/image.png)
 
 **Bespoke HUD**  
-![](assets/hud.png)
+![](assets/image-2026-02-15-21-0-37.png)
 
 **Genetic System**  
-![](assets/gene.png)
+![](assets/image-2026-02-15-21-06-37.png)
 
 ---
 
