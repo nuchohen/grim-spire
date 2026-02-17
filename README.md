@@ -74,4 +74,3 @@ Progress evolves the world Terraria-style: new threats, events, and challenges e
 
 ## 📬 Contacts
 - Discord: (add link)
-- T
