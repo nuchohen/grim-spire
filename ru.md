@@ -24,13 +24,13 @@ title: Grim Spire (RU)
 
 ## 🖼️ Скриншоты
 **Главное меню**  
-![](assets/main_menu_ru.png)
+![](assets/image.png)
 
 **Авторский HUD**  
-![](assets/hud_ru.png)
+![](assets/image-2026-02-15-21-0-37.png)
 
 **Система генов**  
-![](assets/gene_ru.png)
+![](assets/image-2026-02-15-21-06-37.png)
 
 ---
 
